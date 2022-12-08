@@ -1,0 +1,15 @@
+/* Write your code here. */
+.card {
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border: 0px;
+}
+li {
+  list-style-type: none;
+}

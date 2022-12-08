@@ -1,0 +1,16 @@
+/* Write your code here. */
+.main-background {
+  background-image: linear-gradient(aqua, #fbc7d4, #9796f0);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 800px;
+}
